@@ -1,14 +1,11 @@
 {
-  "name": "app",
+  "name": "mynode",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "b.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "ws": "^8.5.0"
-  }
+  "license": "ISC"
 }
