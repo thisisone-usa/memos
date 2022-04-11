@@ -19,4 +19,3 @@ COPY . .
 
 EXPOSE 80
 CMD [ "nodemon", "-L", "a.mjs" ]
-# CMD [ "nodemon", "a.mjs" ]
